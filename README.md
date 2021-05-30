@@ -1,1 +1,1 @@
-# URI Online Judge-Problems and Contests
+# URI Online Judge Problems and Contests
